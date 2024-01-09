@@ -1,4 +1,4 @@
-<h1 text-alig="center">EasyBank 👨‍💻</h1>
+<h1 align="center">EasyBank 👨‍💻</h1>
 
 ## Introduction:
 
