@@ -18,7 +18,7 @@
 - Clone the repository.
 
   ```bash
-  git clone https://github.com/rajeevkrS/TV-Movie-App
+  git clone https://github.com/rajeevkrS/EasyBank
   ```
 
 <h2 align="center">Join EasyBank today and embark on a journey towards hassle-free banking. Your financial ease is our priority!</h2>
